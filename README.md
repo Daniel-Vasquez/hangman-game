@@ -2,6 +2,8 @@
 
 This is a Hangman game made with React, Vite and Tailwind CSS. The game allows users to guess letters to discover a hidden word before exhausting the maximum number of guesses allowed.
 
+![Logo](public/hangman.png)
+
 ## Characteristics
 
 - Developed with React and Vite for a fast and efficient development experience.
@@ -60,4 +62,3 @@ hangman-game/
 - **React**: Biblioteca de JavaScript para construir interfaces de usuario.
 - **Vite**: Herramienta de construcción rápida para proyectos web modernos.
 - **Tailwind CSS**: Framework de CSS para un diseño rápido y personalizable.
-
