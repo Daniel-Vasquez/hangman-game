@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Keyboard } from './components/Keyboard';
-import { words } from './API';
-import { LogoHangman } from './components/icons/LogoHangman';
+import { words } from '@/API';
+import { LogoHangman } from '@/components/icons/LogoHangman';
 
 function App() {
   const [word, setWord] = useState('');
